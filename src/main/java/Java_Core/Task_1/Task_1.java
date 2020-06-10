@@ -1,6 +1,6 @@
-package Java_Core;
+package Java_Core.Task_1;
 
-public class Task_1_1 {
+public class Task_1 {
     public static void main(String[] args) {
         double x = 4566;
         double y = 1647;

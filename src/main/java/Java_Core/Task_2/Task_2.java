@@ -1,6 +1,6 @@
-package Java_Core;
+package Java_Core.Task_2;
 
-public class Task_1_2 {
+public class Task_2 {
     public static void main(String[] args) {
 
             int x = 45685;
