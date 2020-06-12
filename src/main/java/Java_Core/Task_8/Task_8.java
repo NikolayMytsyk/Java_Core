@@ -6,13 +6,13 @@ public class Task_8 {
         Scanner in = new Scanner(System.in);
 
         System.out.println("Введите строку");
-        String str = in.nextLine() ;
+        String str = in.nextLine();
 
-        String word = "" ;
+        String word = "";
         for (int i = 0; i < str.length(); i++)
             if (str.charAt(i) == ' ') {
                 System.out.print(word + " ");
-                word="" ;
+                word="";
             }
             else
                 word=str.charAt(i)+ word;
